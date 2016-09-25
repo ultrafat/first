@@ -1,0 +1,13 @@
+.\objects\main.o: ..\SRC\USER\main.c
+.\objects\main.o: ..\SRC\SYSTEM\DELAY\delay.h
+.\objects\main.o: ..\SRC\SYSTEM\SYS\sys.h
+.\objects\main.o: ..\SRC\STARTUP\MK60DZ10.h
+.\objects\main.o: D:\K5\ARM\CMSIS\Include\core_cm4.h
+.\objects\main.o: D:\K5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: D:\K5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\main.o: D:\K5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\main.o: D:\K5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\main.o: ..\SRC\STARTUP\system_MK60DZ10.h
+.\objects\main.o: ..\SRC\SYSTEM\GPIO\gpio.h
+.\objects\main.o: ..\SRC\SYSTEM\UART\uart.h
+.\objects\main.o: ..\SRC\SYSTEM\WDOG\wdog.h

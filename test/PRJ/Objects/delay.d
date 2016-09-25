@@ -1,0 +1,10 @@
+.\objects\delay.o: ..\SRC\SYSTEM\DELAY\delay.c
+.\objects\delay.o: ..\SRC\SYSTEM\DELAY\delay.h
+.\objects\delay.o: ..\SRC\SYSTEM\SYS\sys.h
+.\objects\delay.o: ..\SRC\STARTUP\MK60DZ10.h
+.\objects\delay.o: D:\K5\ARM\CMSIS\Include\core_cm4.h
+.\objects\delay.o: D:\K5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delay.o: D:\K5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\delay.o: D:\K5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\delay.o: D:\K5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\delay.o: ..\SRC\STARTUP\system_MK60DZ10.h

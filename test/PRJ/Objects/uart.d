@@ -1,0 +1,11 @@
+.\objects\uart.o: ..\SRC\SYSTEM\UART\uart.c
+.\objects\uart.o: ..\SRC\SYSTEM\UART\uart.h
+.\objects\uart.o: ..\SRC\SYSTEM\SYS\sys.h
+.\objects\uart.o: ..\SRC\STARTUP\MK60DZ10.h
+.\objects\uart.o: D:\K5\ARM\CMSIS\Include\core_cm4.h
+.\objects\uart.o: D:\K5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\uart.o: D:\K5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\uart.o: D:\K5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\uart.o: D:\K5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\uart.o: ..\SRC\STARTUP\system_MK60DZ10.h
+.\objects\uart.o: D:\K5\ARM\ARMCC\Bin\..\include\string.h

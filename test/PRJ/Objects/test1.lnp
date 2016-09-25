@@ -1,0 +1,13 @@
+--cpu Cortex-M4
+".\objects\main.o"
+".\objects\delay.o"
+".\objects\gpio.o"
+".\objects\sys.o"
+".\objects\uart.o"
+".\objects\wdog.o"
+".\objects\system_mk60dz10.o"
+".\objects\startup_mk60dz10.o"
+--strict --scatter ".\Objects\test1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\test1.map" -o .\Objects\test1.axf

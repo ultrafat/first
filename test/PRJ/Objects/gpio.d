@@ -1,0 +1,10 @@
+.\objects\gpio.o: ..\SRC\SYSTEM\GPIO\gpio.c
+.\objects\gpio.o: ..\SRC\SYSTEM\GPIO\gpio.h
+.\objects\gpio.o: ..\SRC\SYSTEM\SYS\sys.h
+.\objects\gpio.o: ..\SRC\STARTUP\MK60DZ10.h
+.\objects\gpio.o: D:\K5\ARM\CMSIS\Include\core_cm4.h
+.\objects\gpio.o: D:\K5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gpio.o: D:\K5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\gpio.o: D:\K5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\gpio.o: D:\K5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\gpio.o: ..\SRC\STARTUP\system_MK60DZ10.h

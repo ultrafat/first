@@ -1,0 +1,73 @@
+Dependencies for Project 'test1', Target 'Target 1': (DO NOT MODIFY !)
+F (..\SRC\USER\main.c)(0x5602226B)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I..\SRC\STARTUP -I..\SRC\SYSTEM\DELAY -I..\SRC\SYSTEM\GPIO -I..\SRC\SYSTEM\SYS -I..\SRC\SYSTEM\UART -I..\SRC\SYSTEM\WDOG-I D:\K60\test\PRJ\RTE-I D:\K5\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include-I D:\K5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DMK60DN512xxx10-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\SRC\SYSTEM\DELAY\delay.h)(0x51A40B62)
+I (..\SRC\SYSTEM\SYS\sys.h)(0x51D02E34)
+I (..\SRC\STARTUP\MK60DZ10.h)(0x508759BA)
+I (D:\K5\ARM\CMSIS\Include\core_cm4.h)(0x53463974)
+I (D:\K5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (D:\K5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53463974)
+I (..\SRC\STARTUP\system_MK60DZ10.h)(0x508759B8)
+I (..\SRC\SYSTEM\GPIO\gpio.h)(0x51DCB96A)
+I (..\SRC\SYSTEM\UART\uart.h)(0x51DE0A32)
+I (..\SRC\SYSTEM\WDOG\wdog.h)(0x51A2D558)
+F (..\SRC\SYSTEM\DELAY\delay.c)(0x51A40BA4)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I..\SRC\STARTUP -I..\SRC\SYSTEM\DELAY -I..\SRC\SYSTEM\GPIO -I..\SRC\SYSTEM\SYS -I..\SRC\SYSTEM\UART -I..\SRC\SYSTEM\WDOG-I D:\K60\test\PRJ\RTE-I D:\K5\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include-I D:\K5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DMK60DN512xxx10-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (..\SRC\SYSTEM\DELAY\delay.h)(0x51A40B62)
+I (..\SRC\SYSTEM\SYS\sys.h)(0x51D02E34)
+I (..\SRC\STARTUP\MK60DZ10.h)(0x508759BA)
+I (D:\K5\ARM\CMSIS\Include\core_cm4.h)(0x53463974)
+I (D:\K5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (D:\K5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53463974)
+I (..\SRC\STARTUP\system_MK60DZ10.h)(0x508759B8)
+F (..\SRC\SYSTEM\GPIO\gpio.c)(0x51E0A432)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I..\SRC\STARTUP -I..\SRC\SYSTEM\DELAY -I..\SRC\SYSTEM\GPIO -I..\SRC\SYSTEM\SYS -I..\SRC\SYSTEM\UART -I..\SRC\SYSTEM\WDOG-I D:\K60\test\PRJ\RTE-I D:\K5\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include-I D:\K5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DMK60DN512xxx10-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (..\SRC\SYSTEM\GPIO\gpio.h)(0x51DCB96A)
+I (..\SRC\SYSTEM\SYS\sys.h)(0x51D02E34)
+I (..\SRC\STARTUP\MK60DZ10.h)(0x508759BA)
+I (D:\K5\ARM\CMSIS\Include\core_cm4.h)(0x53463974)
+I (D:\K5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (D:\K5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53463974)
+I (..\SRC\STARTUP\system_MK60DZ10.h)(0x508759B8)
+F (..\SRC\SYSTEM\SYS\sys.c)(0x51B11AD0)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I..\SRC\STARTUP -I..\SRC\SYSTEM\DELAY -I..\SRC\SYSTEM\GPIO -I..\SRC\SYSTEM\SYS -I..\SRC\SYSTEM\UART -I..\SRC\SYSTEM\WDOG-I D:\K60\test\PRJ\RTE-I D:\K5\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include-I D:\K5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DMK60DN512xxx10-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (..\SRC\SYSTEM\SYS\sys.h)(0x51D02E34)
+I (..\SRC\STARTUP\MK60DZ10.h)(0x508759BA)
+I (D:\K5\ARM\CMSIS\Include\core_cm4.h)(0x53463974)
+I (D:\K5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (D:\K5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53463974)
+I (..\SRC\STARTUP\system_MK60DZ10.h)(0x508759B8)
+F (..\SRC\SYSTEM\UART\uart.c)(0x51E0B336)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I..\SRC\STARTUP -I..\SRC\SYSTEM\DELAY -I..\SRC\SYSTEM\GPIO -I..\SRC\SYSTEM\SYS -I..\SRC\SYSTEM\UART -I..\SRC\SYSTEM\WDOG-I D:\K60\test\PRJ\RTE-I D:\K5\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include-I D:\K5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DMK60DN512xxx10-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (..\SRC\SYSTEM\UART\uart.h)(0x51DE0A32)
+I (..\SRC\SYSTEM\SYS\sys.h)(0x51D02E34)
+I (..\SRC\STARTUP\MK60DZ10.h)(0x508759BA)
+I (D:\K5\ARM\CMSIS\Include\core_cm4.h)(0x53463974)
+I (D:\K5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (D:\K5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53463974)
+I (..\SRC\STARTUP\system_MK60DZ10.h)(0x508759B8)
+I (D:\K5\ARM\ARMCC\include\string.h)(0x5475F300)
+F (..\SRC\SYSTEM\WDOG\wdog.c)(0x51D0E72A)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I..\SRC\STARTUP -I..\SRC\SYSTEM\DELAY -I..\SRC\SYSTEM\GPIO -I..\SRC\SYSTEM\SYS -I..\SRC\SYSTEM\UART -I..\SRC\SYSTEM\WDOG-I D:\K60\test\PRJ\RTE-I D:\K5\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include-I D:\K5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DMK60DN512xxx10-o .\objects\wdog.o --omf_browse .\objects\wdog.crf --depend .\objects\wdog.d)
+I (..\SRC\SYSTEM\WDOG\wdog.h)(0x51A2D558)
+I (..\SRC\SYSTEM\SYS\sys.h)(0x51D02E34)
+I (..\SRC\STARTUP\MK60DZ10.h)(0x508759BA)
+I (D:\K5\ARM\CMSIS\Include\core_cm4.h)(0x53463974)
+I (D:\K5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (D:\K5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53463974)
+I (..\SRC\STARTUP\system_MK60DZ10.h)(0x508759B8)
+F (..\SRC\STARTUP\system_MK60DZ10.c)(0x508759AC)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I..\SRC\STARTUP -I..\SRC\SYSTEM\DELAY -I..\SRC\SYSTEM\GPIO -I..\SRC\SYSTEM\SYS -I..\SRC\SYSTEM\UART -I..\SRC\SYSTEM\WDOG-I D:\K60\test\PRJ\RTE-I D:\K5\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include-I D:\K5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DMK60DN512xxx10-o .\objects\system_mk60dz10.o --omf_browse .\objects\system_mk60dz10.crf --depend .\objects\system_mk60dz10.d)
+I (D:\K5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SRC\STARTUP\MK60DZ10.h)(0x508759BA)
+I (D:\K5\ARM\CMSIS\Include\core_cm4.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (D:\K5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53463974)
+I (..\SRC\STARTUP\system_MK60DZ10.h)(0x508759B8)
+F (..\SRC\STARTUP\startup_MK60DZ10.s)(0x508759AC)(--cpu Cortex-M4 -g --apcs=interwork -I D:\K60\test\PRJ\RTE-I D:\K5\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include-I D:\K5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514" --pd "MK60DN512xxx10 SETA 1"--list .\listings\startup_mk60dz10.lst --xref -o .\objects\startup_mk60dz10.o --depend .\objects\startup_mk60dz10.d)
